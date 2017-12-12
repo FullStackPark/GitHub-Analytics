@@ -38,6 +38,7 @@ Primary use at this point is project management based analytics that are not cur
 	3.2. Open a second terminal window and run: `bundle install`
 	
 	% gem install sinatra_auth_github
+	
 	% gem install bundler
 	
 	3.3.`GITHUB_CLIENT_ID="YOUR CLIENT ID" GITHUB_CLIENT_SECRET="YOUR CLIENT SECRET" bundle exec rackup`
